@@ -1,0 +1,11 @@
+.lead__caption {
+    font-size: 10px;
+    line-height: 14px;
+    font-style: normal;
+    color: white;
+    font-weight: 400;
+    margin: 0;
+    max-width: 158px; /* kak nastroyt */
+    width: fit-content;
+    letter-spacing: .15em;
+}
