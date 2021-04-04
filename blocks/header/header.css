@@ -1,5 +1,5 @@
 .header {
-    padding: 28px 48px 56px;
-    
-    justify-content: space-between;
+    font-family: 'Inter', Arial, sans-serif;
+    color: #FFFFFF;
+    background-color: #2A2C2F;
 }
