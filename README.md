@@ -20,4 +20,4 @@
 
 **GitHub Pages**
 
-* [Ссылка на проеrт на GitHub Pages](https://aparinalena.github.io/russian-travel/)
+* [Ссылка на проект на GitHub Pages](https://aparinalena.github.io/russian-travel/)
