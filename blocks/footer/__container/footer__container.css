@@ -11,3 +11,9 @@
         margin: auto;
     }
 }
+
+@media (min-width: 1024px) {
+    .footer__container {
+        padding: 92px 48px 24px;
+    }
+}
