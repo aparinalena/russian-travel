@@ -14,3 +14,10 @@
         line-height: 58px;
     }
 }
+
+@media (min-width: 1280px) { 
+    .intro__title { 
+        margin: 0 auto;
+        padding: 0 calc(984px - 690px) 40px 0;
+    } 
+} 
