@@ -19,7 +19,7 @@
 
 @media (min-width: 1280px) {
     .intro {
-        padding: 0 442px 0 148px; 
+        padding-left: calc((50% - 345px)/2);
+        padding-right: calc((50% - 345px)*1.5);
     }
 }
-
