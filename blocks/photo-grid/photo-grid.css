@@ -4,7 +4,6 @@
     gap: 12px;
     background-color: #2A2C2F;
     padding: 64px 16px;
-    max-width: 1184px;
 }
 
 @media (min-width: 768px) {
