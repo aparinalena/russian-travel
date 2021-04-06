@@ -2,6 +2,7 @@
     padding: 16px 16px 48px;
     display: flex;
     justify-content: space-between;
+    max-width: 1184px;
 }
 
 @media (min-width: 768px) {
