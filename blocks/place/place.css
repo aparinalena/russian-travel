@@ -28,5 +28,7 @@
     .place {
         column-gap: 40px;
         padding: 0 148px 92px;
+        max-width: 984px;
+        margin: auto;
     }
 }
